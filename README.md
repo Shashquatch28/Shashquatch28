@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shashwat Kumar</h1>
+<h1 align="center">Hi, I'm Shashwat Kumar</h1>
 <h3 align="center">B.Tech AIML | Machine Learning | Quant Finance | Research Enthusiast</h3>
 
----
+
 
 ## 👨‍💻 About Me
 - 🎓 First-year undergraduate student in **Artificial Intelligence & Machine Learning (AIML)**  
@@ -10,7 +10,8 @@
 - 🧠 Learning **Deep Learning** and **Reinforcement Learning**  
 - 🏎️ Latest Project: **[F1 Podium Prediction](https://github.com/Shashquatch28/f1-podium-prediction)**
 
----
+<br><br>
+
 
 ## 🛠️ Languages and Tools
 <p>
@@ -25,7 +26,8 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<br><br>
+
 
 ## 🌐 Let's Connect
 <p>
@@ -33,14 +35,17 @@
   <a href="https://www.linkedin.com/in/shash-ai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+
+<br><br>
+
+
 
 ## 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Shashquatch28&show_icons=true&theme=tokyonight" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 - 🎯 **[F1 Podium Prediction](https://github.com/Shashquatch28/f1-podium-prediction)** → Predict podium finishes using ML on Formula 1 data.
