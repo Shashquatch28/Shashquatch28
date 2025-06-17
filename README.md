@@ -15,6 +15,7 @@
 
 ## ⚙️ Tech Stack
 
+
 <p align="left">
   <!-- Languages & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" />
@@ -23,11 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" height="35" />
   
   <!-- Seaborn (no official icon) — improvising with Python icon + tooltip -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" title="Seaborn" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="35" height="35" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" height="35" />  
   <!-- Deep Learning -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" height="35" />
