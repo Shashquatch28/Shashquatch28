@@ -8,7 +8,6 @@
 - 📊 Interested in **Quantitative Finance**, **Machine Learning Research**, and **Applied AI**  
 - 🔭 Currently working on **ML projects** and diving into **research papers**  
 - 🧠 Learning **Deep Learning** and **Reinforcement Learning**  
-- 🏎️ Latest Project: **[F1 Podium Prediction](https://github.com/Shashquatch28/f1-podium-prediction)**
 
 <br><br>
 
